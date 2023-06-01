@@ -1,13 +1,19 @@
 <template>
-    <div>
+    <header class="header">
         <h1>blog</h1>
-    </div>
+        <h1>portfolio</h1>
+    </header>
 </template>
 
-<script>
+<script lang="ts">
 export default {
 
 }
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.header {
+    width: 100%;
+    background: #3b3b3b;
+}
+</style>
