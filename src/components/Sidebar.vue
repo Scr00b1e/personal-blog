@@ -1,5 +1,5 @@
 <template>
-    <div class="sidebar bg-slate-300">
+    <div class="sidebar bg-slate-300 h-auto w-full">
         <h1>sidebar</h1>
     </div>
 </template>

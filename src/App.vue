@@ -1,7 +1,7 @@
 <template>
     <Header />
     <div class="w-full max-w-6xl mt-0 mx-auto">
-        <div class="flex items-center justify-between mt-5">
+        <div class="flex justify-between mt-5">
             <Main />
             <Sidebar />
         </div>
