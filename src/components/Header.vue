@@ -1,6 +1,5 @@
 <template>
-    <header class="header">
-        <h1>blog</h1>
+    <header class="header flex">
         <h1>portfolio</h1>
     </header>
 </template>

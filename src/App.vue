@@ -13,6 +13,10 @@ export default {
 </script>
 
 <style lang="scss">
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 *,
 *::after,
 *::before {
